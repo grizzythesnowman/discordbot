@@ -3,7 +3,7 @@ const { REST, Routes } = require('discord.js');
 
 const commands = [{
         name: 'embed',
-        description: 'Replies with hey!',
+        description: 'Embed something.',
     }
 ];
 
